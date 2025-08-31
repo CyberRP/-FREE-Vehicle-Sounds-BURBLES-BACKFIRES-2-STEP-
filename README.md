@@ -11,6 +11,14 @@ Drop-in resource to give multiple vehicles their own pops (upshift), backfire (d
 3) Put your `.ogg` files into `html/sounds/` and reference them in `config.lua` per vehicle key (spawn name).
 4) no need to mess with the server.lua or the client.lua or the fxmanifest.lua unless you know what your doing you ***WILL*** break the scripts and nothing will work
 
+***IF YOU NEED ANY HELP WITH THE SCRIPT FEEL FREE TO JOIN OUR DISCORD AND OR FEEL FREE TO JOIN OUT CITY CyberRolePlay***
+
+***DISCORD https://discord.gg/eEbS4dAVJR***
+
+***IF THE DISCORD LINK IS EXPIRED ADD MY DISCORD***
+
+***nksflick#4824***
+
                                HOW TO ADD CUSTOM CAR SOUNDS
 
 ***STEP 1-- use anytype of rec software "STREAMLABS" "OBS" etc rec a yotube video of any car sound***
