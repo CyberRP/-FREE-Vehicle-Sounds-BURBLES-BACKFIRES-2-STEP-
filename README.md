@@ -6,7 +6,7 @@ make your server stand out using this script to elevate the realism of the car c
 Drop-in resource to give multiple vehicles their own pops (upshift), backfire (downshift), burble (on throttle release), and 2-step (W+handbrake). Audio is synced to nearby players.
 
 ## Install
-1) Put this folder in `resources/[local]/vehicle_sounds_template`
+1) Put this folder in `resources/[local]/vehicle_sounds`
 2) Add to `server.cfg`: `ensure vehicle_sounds_template`
 3) Put your `.ogg` files into `html/sounds/` and reference them in `config.lua` per vehicle key (spawn name).
 4) no need to mess with the server.lua or the client.lua or the fxmanifest.lua unless you know what your doing you ***WILL*** break the scripts and nothing will work
